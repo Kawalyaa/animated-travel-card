@@ -1,4 +1,4 @@
-## Travel Cards 
+## Animated Travel Cards 
 
 <p align=center><a href=#><img src="https://flutter.gskinner.com/vignettes/previews/parallax_list_edited.gif?"/></a></p>
 
